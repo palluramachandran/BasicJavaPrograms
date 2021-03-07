@@ -12,7 +12,8 @@ public class DuplicateCharacters {
 			}
 
 		}
-		System.out.println(count);
+		System.out.println("Total count is"+count);
+		
 
 	}
 
